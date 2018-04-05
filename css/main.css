@@ -19,7 +19,7 @@ header {
 }
 
 table {
-  max-width: 45em;
+  min-width: 45em;
 }
 
 @media only screen and (min-width: 60em) {
